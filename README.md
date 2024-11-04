@@ -35,8 +35,8 @@ If the best variant is a closed source variant I will link the closed source and
 
 ### Photography 
 
-🥇 - ✨ [GIMP](https://www.gimp.org) *(Windows, Mac, Linux)* (If you're planning on bashing GIMP, just move on. Nobody cares)
-🥈 - ⭐️ (💵) [Photopea](https://www.photopea.com) *(Browser)*
+- [🥇] ✨ [GIMP](https://www.gimp.org) *(Windows, Mac, Linux)* (If you're planning on bashing GIMP, just move on. Nobody cares)
+- [🥈] ⭐️ (💵) [Photopea](https://www.photopea.com) *(Browser)*
 
 ### Painting ⛔️
 
