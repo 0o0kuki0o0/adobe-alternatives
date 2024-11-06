@@ -164,11 +164,9 @@ If the best variant is a closed source variant I will link the closed source and
 - 💵 [PDF-XChange](https://pdf-xchange.eu/pdf-xchange-editor) *(Windows)*
 - 🔒 [Xodo](https://xodo.com) *(Browser, Windows, Android, iOS)*
 
-### Reader ⛔️
+### Reader 
 
-- ✨ [Zathura](https://pwmt.org/projects/zathura) *(Linux)*
-- ✨ [Sioyek](https://sioyek.info) *(Windows, Mac, Linux)*
-- ✨ [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) *(Windows)*
+Almost every Browser or pre installed app has this feature. just use one of the Editor ones ore the preinstalled apps.
 
 ## Bridge 🚫
 
