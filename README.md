@@ -164,9 +164,7 @@ If the best variant is a closed source variant I will link the closed source and
 - 💵 [PDF-XChange](https://pdf-xchange.eu/pdf-xchange-editor) *(Windows)*
 - 🔒 [Xodo](https://xodo.com) *(Browser, Windows, Android, iOS)*
 
-### Reader 
-
-Almost every Browser or pre installed app has this feature. just use one of the Editor ones ore the preinstalled apps.
+### Reader (Almost every Browser or pre installed app has this feature. just use one of the Editor ones ore the preinstalled apps.)
 
 ## Bridge 🚫
 
@@ -181,14 +179,9 @@ Almost every Browser or pre installed app has this feature. just use one of the 
 
 ## Audition
 
-### General 🚫
+### General
 
 - ✨ [Audacity](https://www.audacityteam.org) *(Windows, Mac, Linux)*
-- ⭐️ [Ocenaudio](https://www.ocenaudio.com) *(Windows, Mac, Linux)*
-- ⭐️ (💵) [DaVinci Resolve Fairlight](https://www.blackmagicdesign.com/nl/products/davinciresolve/fairlight) *(Windows, Mac, Linux)*
-- 💵 [GoldWave](http://www.goldwave.com) *(Windows, Mac, Linux)*
-- 💵 [iZotope RX](https://www.izotope.com/en/shop/rx.html) *(Windows, Mac)*
-- 💵 [Sound Forge](https://www.magix.com/au/music/sound-forge) *(Windows, Mac)*
 
 ### DAWs 🚫
 
